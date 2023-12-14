@@ -1,0 +1,5 @@
+org/uv/DSWeb_Practica07/DsWebPractica07Application.class
+org/uv/DSWebPractica07/SecurityConfig.class
+org/uv/DSWeb_Practica07/Repositories/UserRepository.class
+org/uv/DSWeb_Practica07/Models/User.class
+org/uv/DSWeb_Practica07/Controllers/ControllerUser.class
